@@ -8,7 +8,7 @@
 
 ## About Me
 
-With a broad understanding of enterprise technology, a deep technical skillset, and focus on software related delivery methodologies, I spend most of my time applying my technical and management skills to larger teams to efficiently develop and deliver scalable solutions using iterative methodologies.
+I am a technical leader with over a decade of experience building cross-functional teams and products, optimizing processes, and developing innovative solutions. I am passionate about culture, customer value, efficiency, and process improvement. My skills include engineering management, program management, and full-stack development. 
 
 ### Skills
 - Technical Leadership
@@ -23,6 +23,6 @@ With a broad understanding of enterprise technology, a deep technical skillset, 
 
 ## Interests
 
-I enjoy spending time in nature, hiking, camping, climbing mountains, driving around in my Jeep, and staying active. When relaxing, I can also be found reading business, finance, and technology books while enjoying the darkest coffee available.
+I enjoy spending time in nature, hiking, camping, climbing mountains, and staying active. When relaxing, I can also be found reading business, finance, and technology books while enjoying the darkest coffee available.
 
-From open source contributions to software related business ventures, I also like to keep my technical skills sharp and apply a lot of my real-world experience to personal projects. I am known for getting stuff done, always looking for optimizations, being very passionate, and sometimes using a colorful language.
+From open source contributions to software related business ventures, I also like to keep my technical skills sharp and apply a lot of my real-world experience to personal projects.
